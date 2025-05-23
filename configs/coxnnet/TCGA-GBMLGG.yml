@@ -1,0 +1,10 @@
+dropout: 0.12715914911385356
+early_stopping: false
+hidden_dim:
+- 32
+- 16
+l2_reg: 0.026043079823453025
+lr: 0.009436125172763078
+lr_decay: 2.660867855696408e-06
+method: adam
+steps: 243

@@ -1,0 +1,13 @@
+early_stopping: false
+init_params:
+  dropout: 0.12205493310218923
+  layers:
+  - 67
+  - 67
+  - 67
+  layers_surv:
+  - 16
+n_iter: 687
+optimizer_params:
+  lr: 0.0017124798787645954
+  weight_decay: 0.0001648033140732453

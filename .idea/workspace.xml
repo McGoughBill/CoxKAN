@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b63bf2b6-585c-41cc-b1a8-28298ccb6217" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/flchain_test.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/flchain_test.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/flchain_train.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/flchain_train.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/gbsg_test.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/gbsg_test.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/gbsg_train.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/gbsg_train.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/metabric_test.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/metabric_test.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/metabric_train.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/metabric_train.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/nwtco_test.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/nwtco_test.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/nwtco_train.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/nwtco_train.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_deep_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_deep_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_deep_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_deep_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_depth_1_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_depth_1_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_depth_1_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_depth_1_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_difficult_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_difficult_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_difficult_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_difficult_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_gaussian_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_gaussian_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_gaussian_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_gaussian_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_2_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_2_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_2_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_2_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_3_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_3_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_3_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/sim_reviewer_1_3_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/support_test.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/support_test.feather" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/support_train.feather" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads/CoxKAN-PR/CoxKAN_PR/data/support_train.feather" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w564bwNd26SftTiByi8PLK77sS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "/Users/mcgoug01/Downloads/CoxKAN-PR/CoxKAN_PR",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b63bf2b6-585c-41cc-b1a8-28298ccb6217" name="Changes" comment="" />
+      <created>1745318897986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745318897986</updated>
+      <workItem from="1745318899139" duration="14172000" />
+      <workItem from="1745355009159" duration="2396000" />
+      <workItem from="1747992208687" duration="360000" />
+      <workItem from="1747995497251" duration="959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

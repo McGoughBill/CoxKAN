@@ -1,0 +1,5 @@
+/data/*.feather
+/data/*.csv
+/data/TCGA
+*.png
+*.pt

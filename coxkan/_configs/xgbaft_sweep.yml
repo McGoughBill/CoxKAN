@@ -1,0 +1,27 @@
+learning_rate:
+  type: loguniform
+  min: 0.001
+  max: 0.01
+early_stopping:
+  type: categorical
+  values: [true, false]
+aft_loss_distribution:
+  type: categorical
+  values: [normal, logistic, extreme]
+aft_loss_distribution_scale:
+  type: loguniform
+  min: 0.1
+  max: 10.0
+max_depth:
+  type: int
+  min: 3
+  max: 8
+lambda:
+  type: loguniform
+  min: 0.00000001
+  max: 0.001
+alpha:
+  type: loguniform
+  min: 0.00000001
+  max: 0.001
+
